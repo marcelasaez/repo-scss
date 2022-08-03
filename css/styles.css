@@ -1,0 +1,26 @@
+.listanavegacion {
+  list-style: none;
+}
+.listanavegacion li {
+  padding: 15px;
+  display: inline-block;
+}
+.listanavegacion li a {
+  text-decoration: none;
+  font-size: 16px;
+  color: #444;
+}
+.listanavegacion li a:hover {
+  background-color: aqua;
+}
+
+p {
+  color: color-parrafo;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=styles.css.map */
